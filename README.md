@@ -1,1 +1,18 @@
-# TeensAndSocialMedia
+<!DOCTYPE html>
+<html>
+<head>
+	<title>How social media affects teens.</title>
+</head>
+<body>
+<h1> How Social Media Affects Teens and Their Mental Health. </h1>
+<h1 style="color:blue;">This is a Blue Heading</h1>
+<img src="TeenUsingPhone1" alt="Girl on Phone">
+<p> It should come as no surprise that the pressure to be available 24/7 on social media is a very real challenge for today's teenagers. Aside from the fact that their grasp of and dependence on social media far exceeds that of many adults, they also are using social media at much greater rates too. In fact, a report by Common Sense Media found that 75 percent of American teenagers have social media profiles. Social media is a daily part of life for the vast majority of teens. </p>
+<h2> How Does the Teen Brain Respond to Social Media? </h2>
+<p> For many teens, social media can become almost addictive. In a study by researchers at the UCLA brain mapping center, they found that certain regions of teen brains became activated by "likes" on social media, sometimes causing them to want to use social media more. During the study, researchers used an fMRI scanner to image the brains of 32 teenagers as they used a fictitious social media app resembling Instagram. The teenagers were shown more than 140 images where "likes" were believed to be from their peers. However, the likes were actually assigned by the research team. As a result, the brain scans revealed that in addition to a number of regions, the nucleus accumbens, part of the brain's reward circuitry, was especially active when they saw a large number of likes on their own photos. According to researchers, this area of the brain is the same region that responds when we see pictures of people we love or when we win money. What's more, researchers say that this reward region of the brain is particularly sensitive during the teen years, which could explain why teens are so drawn to social media. In another part of the study, researchers could see a correlation between social media and peer influence. Participants in the study were shown both neutral photos and risky photos. What they found is that the type of image had no impact on the number of likes given by teens in the study. Instead, they were likely to hit "like" on the popular photos regardless of what they showed. Researchers believe this behavior shows that peers can have both a positive and negative influence on others while using social media. </p>
+<h2> What Impact Does Social Media Have on Mental Health? </h2>
+<img src="TeenUsingPhone2" alt="Girl on Phone2">
+<p> Undoubtedly, social networking plays a vital role in broadening teen social connections and helping them learn valuable technical skills. But what impact is all of this social networking having on young teen minds? Most reports indicate that the impact can be significant.Not only are teens' developing brains vulnerable to so much time online, but because they often have difficulty self-regulating their screen time, their risks can increase. Additionally, they are more susceptible to peer pressure, cyberbullying and sexting—all activities involving digital communication—making navigating the online social world treacherous at times. All in all, there are a number of health issues that develop as a result of too much time online. Here is an overview of the most common mental health-related issues teens can experience from too much social media use. Clink the link for more information</p>
+<a href="https://www.verywellfamily.com/ways-social-media-affects-teen-mental-health-4144769">This is a link</a>
+</body>
+</html>
